@@ -2,7 +2,7 @@ About me
 ##
 
 
-I'am Wagner Neves, a software developer and student at Univesp.
+I'am Wagner Neves, a senior software developer.
 
 My main skills are on .Net, Cloud, Web and Python development.During my career, I helped several companies to solve simple and complex problems adding value to them and valuable knowledge for me.
 
