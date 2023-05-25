@@ -4,7 +4,7 @@ About me
 
 I'am Wagner Neves, a senior software developer.
 
-My main skills are on .Net, Cloud, Web and Python development.During my career, I helped several companies to solve simple and complex problems adding value to them and valuable knowledge for me.
+My main skills are on .Net, Cloud, Web and Python development. During my career, I helped several companies to solve simple and complex problems adding value to them and valuable knowledge for me.
 
 In addition to the professional scope, I have a passion for studying areas such as new technologies, artificial intelligence, psychology, physiology and performance.
 
